@@ -12,7 +12,7 @@ const AboutUs = () => {
         {/* Introduction */}
         <div className="mb-10">
           <p className="text-lg text-gray-700 leading-relaxed">
-            At <span className="font-bold text-gray-900">PJ_ESSAYS</span>, 
+            At <span className="font-bold text-gray-900">Assignment SOS🆘</span>, 
             we are dedicated to delivering exceptional academic support and research services. 
             With years of proven experience, we aim to empower students and professionals 
             through high-quality writing solutions tailored to their needs.

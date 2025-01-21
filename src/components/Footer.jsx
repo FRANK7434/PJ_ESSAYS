@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
         {/* Company Info */}
         <div>
-          <h3 className="text-lg font-bold text-white mb-4">PJ_ESSAYS</h3>
+          <h3 className="text-lg font-bold text-white mb-4">Assignment SOS🆘</h3>
           <p>Your trusted academic success partner for essays, assignments, quizzes, classes, and exams.</p>
         </div>
 
@@ -68,7 +68,7 @@ const Footer = () => {
 
       {/* Footer Bottom */}
       <div className="mt-8 border-t border-gray-700 pt-4 text-center">
-        <p>&copy; {new Date().getFullYear()} PJ_ESSAYS. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Assignment SOS🆘. All rights reserved.</p>
       </div>
     </footer>
   );

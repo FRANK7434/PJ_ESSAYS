@@ -21,7 +21,7 @@ const HeroSection = () => {
         {/* Left Section: Text */}
         <div className="bg-gray-100 lg:bg-gray-900 lg:bg-opacity-70 p-6 rounded-lg lg:w-1/2">
           <h1 className="text-gray-900 lg:text-white text-4xl lg:text-5xl font-bold mb-4">
-            Welcome to <span className="text-yellow-400">PJ_ESSAYS</span>
+            Welcome to <span className="text-yellow-400">Assignment SOS🆘</span>
           </h1>
           <p className="text-gray-700 lg:text-gray-200 text-lg mb-6">
             Your trusted partner in delivering exceptional services.

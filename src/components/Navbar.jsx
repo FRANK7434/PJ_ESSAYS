@@ -11,12 +11,12 @@ const Navbar = () => {
         <div className="flex items-center space-x-3">
           <img
             src={logo} // Replace with your logo's path
-            alt="PJ_ESSAYS"
+            alt="Assignment SOS🆘"
             className="h-8 w-20 sm:h-10 sm:w-24 object-contain"
           />
           <div>
             <span className="block text-gray-900 font-bold text-sm sm:text-lg">
-              PJ_ESSAYS
+            Assignment SOS🆘
             </span>
             <span className="block text-gray-700 text-xs sm:text-sm capitalize">
               Your Academic Success Partner For Essays, Assignments, Quizzes, Classes, And Exams
